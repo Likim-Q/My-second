@@ -1,0 +1,2 @@
+$ssh-keygen -t rsa -C "your email"  //生成公钥，在 id_rsa.pub 文件中
+git remote remove origin 
